@@ -1,2 +1,2 @@
-# service-manager
+= service-manager
 Service manager for microservices
