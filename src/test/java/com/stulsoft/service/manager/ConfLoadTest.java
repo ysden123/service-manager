@@ -18,7 +18,7 @@ import static org.junit.Assert.assertNotNull;
 public class ConfLoadTest {
     @Test
     public void parseFileTest() {
-        Config config = ConfigFactory.parseFile(new File("application-test.conf"));
+        Config config = ConfigFactory.parseFile(new File("application-unit-test.conf"));
         assertNotNull(config);
 
         Config kafkaConfig = config.getConfig("kafka");
