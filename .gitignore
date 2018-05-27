@@ -24,3 +24,9 @@ hs_err_pid*
 .idea/
 service-manager.iml
 target/
+
+\.classpath
+
+\.project
+
+\.settings/
