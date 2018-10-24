@@ -5,3 +5,7 @@ Service manager for microservices
 master: image:https://travis-ci.org/ysden123/service-manager.svg?branch=master["Build Status", link="https://travis-ci.org/ysden123/service-manager"]
 
 develop: image:https://travis-ci.org/ysden123/service-manager.svg?branch=develop["Build Status", link="https://travis-ci.org/ysden123/service-manager"]
+
+[![Build Status - master](https://travis-ci.org/ysden123/monitor-log-analyzer.svg?branch=master)](https://travis-ci.org/ysden123/monitor-log-analyzer)
+
+[![Build Status - develop](https://travis-ci.org/ysden123/monitor-log-analyzer.svg?branch=develop)](https://travis-ci.org/ysden123/monitor-log-analyzer)
